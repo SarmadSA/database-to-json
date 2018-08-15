@@ -20,12 +20,6 @@ public class CardTechnicalInfoTable {
         this.connection = new DbConnect();
     }
 
-    /**
-     * Returns a JSON array of game with the given ID
-     *
-     * @param id the id of the games to return
-     * @return JSON array of game with the given ID
-     */
     public JSONObject getTechnicalInfo(String id) {
         JSONObject technicalInfo = new JSONObject();
         try {
