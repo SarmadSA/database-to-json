@@ -3,6 +3,17 @@
     {
       "release_data": "2016-05-01",
       "image": "gtx1060.png",
+      "technical_info": {
+        "memory_interface_width": "192-bit",
+        "standard_memory_config": "6 GB GDDR5",
+        "memory_speed": "8 Gbps",
+        "cuda_cores": "1280",
+        "memory_bandwidth": "192",
+        "base_clock": "1506",
+        "id": "1",
+        "card_id": "1",
+        "boost_clock": "1708"
+      },
       "amazon_link": "https://www.amazon.com/MSI-GAMING-GTX-1060-6G/dp/B01IEKYD5U/ref=sr_1_3?ie=UTF8&qid=1530105701&sr=8-3&keywords=msi+gtx+1060",
       "price": "400",
       "games": [
@@ -40,6 +51,7 @@
     {
       "release_data": "2016-05-06",
       "image": "gtx1070.jpg",
+      "technical_info": {},
       "amazon_link": "https://www.amazon.com/ASUS-GeForce-STRIX-Graphic-STRIX-GTX1070-O8G-GAMING/dp/B01HDUVJ1I/ref=sr_1_3?ie=UTF8&qid=1530397787&sr=8-3&keywords=asus+gtx+1070",
       "price": "299",
       "games": [
@@ -77,6 +89,7 @@
     {
       "release_data": "2016-08-12",
       "image": "gtx1080.png",
+      "technical_info": {},
       "amazon_link": "https://www.amazon.com/Gigabyte-GeForce-WINDFORCE-Cooling-Graphics/dp/B01GCAW1IA/ref=sr_1_fkmr2_4?s=electronics&ie=UTF8&qid=1530978937&sr=1-4-fkmr2&keywords=gigabyte+msi+gtx+1080",
       "price": "549",
       "games": [
@@ -114,6 +127,7 @@
     {
       "release_data": "2016-06-07",
       "image": "evga1060.jpg",
+      "technical_info": {},
       "amazon_link": "https://www.amazon.com/EVGA-GeForce-GAMING-Support-06G-P4-6163-KR/dp/B01IPVSLTC/ref=sr_1_1?s=pc&ie=UTF8&qid=1531568607&sr=1-1&keywords=gtx+1060",
       "price": "299",
       "games": [
