@@ -10,7 +10,7 @@ public class CardTechnicalInfoTable {
             "base_clock",
             "boost_clock",
             "standard_memory_config",
-            "memory_speed",
+            "memory_clock_speed",
             "memory_interface_width",
             "memory_bandwidth"
     };
