@@ -8,7 +8,7 @@ import javax.smartcardio.Card;
 
 public class CardTable {
     private final String tableName = "cards";
-    private final String[] tableColumns = {"id", "title", "short_title", "release_date", "price", "amazon_link", "image"};
+    private final String[] tableColumns = {"id", "title", "short_title", "release_date", "price", "amazon_link", "image", "external_image"};
     private DbConnect connection;
     //private HashMap<String, JSONObject> list;
     private GamesTable games;
